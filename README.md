@@ -20,6 +20,8 @@ Input dada are taken from .xlsx file, these inclue:
 ## ToBeDone
 - other Equation type solutions
 - time dependency
+- solution schemes: Crank-Nicholson, Upwind, Lax-Wendroff,...
 - improving code quality
 - tests, asserts
 - better output handling
+- more complex geometries
