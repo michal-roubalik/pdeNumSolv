@@ -1,6 +1,6 @@
 # Lambda-Nabla PDE Num Solver
 
-This is implementation of numerical solver of Partial Differential Equations:
+This is first draft of implementation of numerical solver of Partial Differential Equations:
 - Parabolic (e.g. Diffusion)
 - Hyperbolic (e.g. Transport)
 - Elliptic (e.g. Waves)
@@ -16,3 +16,10 @@ Input dada are taken from .xlsx file, these inclue:
 ## Currently implemented
 - Static Parabolic Equation with Dirichlet and Neumann Boundary Conditions
 ![alt text](https://github.com/michal-roubalik/pdeNumSolv/blob/master/solution.png?raw=true)
+
+## ToBeDone
+- other Equation type solutions
+- time dependency
+- improving code quality
+- tests, asserts
+- better output handling
