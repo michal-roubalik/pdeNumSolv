@@ -5,6 +5,8 @@ This is implementation of numerical solver of Partial Differential Equations:
 - Hyperbolic (e.g. Transport)
 - Elliptic (e.g. Waves)
 
+`main` function is in file `nabla_lambda.py`.
+
 Input dada are taken from .xlsx file, these inclue:
 - Equation type
 - Solution scheme
